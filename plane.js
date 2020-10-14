@@ -9,6 +9,9 @@ class plane {
 }
 {function keyPressed() {
   if (keyCode === DOWN_ARROW)
-  Matter.body.setStatic(false) packagebody,False {
+  { helicopterSprite.x=helicopterSprite.x-20; translation={x:-20,y:0} Matter.Body.translate(packageBody, translation
+    Matter.body.setStatic(false) packagebody,False {
+    }
   }
-}
+  
+
